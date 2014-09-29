@@ -1,29 +1,8 @@
-# FireShell [![Build Status](https://travis-ci.org/toddmotto/fireshell.png)](https://travis-ci.org/toddmotto/fireshell)
+# ISM FAST
 
-Fiercely quick front-end boilerplate and workflows.
+## Overview
 
-The opinionated FireShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
-
-* Source: [github.com/toddmotto/fireshell](http://github.com/toddmotto/fireshell)
-* Homepage: [getfireshell.com](http://getfireshell.com)
-* Twitter: [@getfireshell](http://twitter.com/getfireshell)
-
-## Jump start
-
-Get started with FireShell:
-
-1. Download the latest stable release from
-   [getfireshell.com](http://getfireshell.com).
-2. Clone the git repo — `git clone
-   https://github.com/toddmotto/fireshell.git`
-
-## Platform support
-
-FireShell runs on both Mac OS X, Linux and Windows. Automated command-line scripts are only supported on Mac OS X and Windows.
-
-## Documentation
-
-Read the developer [documentation](//github.com/toddmotto/fireshell/blob/master/docs/DOCS.md) on FireShell for further reading and learning. You may need to install a few assets before you can get started, such as Node, Git, Grunt.
+This repository hosts the static website design for FASTv4's marketing website. The website is built with Fireshell and Bootstrap v3 utalizing Grunt, SASS and CoffeeScript.
 
 ## Features
 
